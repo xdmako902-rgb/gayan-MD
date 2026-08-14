@@ -1,5 +1,5 @@
 module.exports = {
-    PREFIX: ".",
+    PREFIX: "/",
     OWNER_NUMBER: "94701153310",
     BOT_NAME: "QUEEN-NESHU-MD",
     WORK_TYPE: "public",
@@ -28,8 +28,8 @@ module.exports = {
     ANTI_DEL_PATH: "same", 
     AUTO_RECORDING: "false",
 
-    NEWSLETTER_JID: "7271916507180@lid",
-    GROUP_INVITE_LINK: "https://chat.whatsapp.com/CqDoPKbD49jBxiGb2fLUdt?s=cl&p=a&ilr=0",
+    NEWSLETTER_JID: "143366645887163@lid",
+    GROUP_INVITE_LINK: "https://whatsapp.com/channel/0029VbDWcyuATRSrD3z0kS3F",
     MAX_RETRIES: 3,
     RCD_IMAGE_PATH: "https://i.ibb.co/tNZVn1k/IMG-20260710-WA0163.jpg"
 };
